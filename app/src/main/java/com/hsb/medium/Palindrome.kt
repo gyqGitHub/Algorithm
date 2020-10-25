@@ -1,4 +1,4 @@
-package com.hsb.algorithm
+package com.hsb.medium
 
 /**
  * 1。暴力解法
